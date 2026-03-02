@@ -1,0 +1,25 @@
+# ROS2 build files
+build/
+install/
+log/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local Data files (PCD and HeightMap results)
+*.pcd
+*.npy
+*.pgm
+
+# Editor and OS specific files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# Docker related
+.docker_ids
